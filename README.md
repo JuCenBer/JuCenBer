@@ -9,10 +9,10 @@ Soy Julián Beraún Centineo, estudiante de Licenciatura en Sistemas.
 <img align="left" width="22px" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=ff428e" />
 </a>
 
-# Languajes and Tools:
+### Languajes and Tools:
 ![CSS3](https://icongr.am/fontawesome/css3.svg?size=59&color=ff428e) ![HTML5](https://icongr.am/fontawesome/html5.svg?size=59&color=ff428e) ![Java](https://icongr.am/devicon/java-plain.svg?size=59&color=ff428e) ![JavaScript](https://icongr.am/devicon/javascript-plain.svg?size=59&color=ff428e) ![Python](https://icongr.am/devicon/python-plain.svg?size=59&color=ff428e) ![MySQL](https://icongr.am/devicon/mysql-plain.svg?size=59&color=ff428e) 
 
-# 📊 GitHub Stats:
+---
 ![](https://github-readme-stats.vercel.app/api?username=JuCenBer&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JuCenBer&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuCenBer&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
