@@ -10,12 +10,14 @@ Soy Julián Beraún Centineo, estudiante de Licenciatura en Sistemas.
 </a>
 
 ### Languajes and Tools:
+<div>
 <img height="20" src="https://icongr.am/fontawesome/css3.svg?size=59&color=ff428e">
 <img height="20" src="https://icongr.am/fontawesome/html5.svg?size=59&color=ff428e">
 <img height="20" src="https://icongr.am/devicon/java-plain.svg?size=59&color=ff428e">
 <img height="20" src="https://icongr.am/devicon/javascript-plain.svg?size=59&color=ff428e">
 <img height="20" src="https://icongr.am/devicon/python-plain.svg?size=59&color=ff428e">
 <img height="20" src="https://icongr.am/devicon/mysql-plain.svg?size=59&color=ff428e">
+</div>
 
 ---
 ![](https://github-readme-stats.vercel.app/api?username=JuCenBer&theme=radical&hide_border=true&include_all_commits=true&count_private=false)<br/>
