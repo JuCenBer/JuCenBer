@@ -5,7 +5,7 @@ Soy Julián Beraún Centineo, estudiante de Licenciatura en Sistemas. Aprendiend
 <a href="https://instagram.com/juliberaun">
   <img align="left" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=ff428e" />
 </a>
-<a href="https://linkedin.com/in//julián-jorge-beraún-centineo-273b15182">
+<a href="https://www.linkedin.com/in/julian-beraun-centineo-273b15182/">
   <img align="left" width="22px" src="https://icongr.am/fontawesome/linkedin-square.svg?size=128&color=ff428e" />
 </a>
 
